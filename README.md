@@ -54,7 +54,7 @@ I'm particularly interested in:
 I'm eager to keep learning, take on technical challenges, and grow into a cybersecurity professional.
 
 Contact
-💼 LinkedIn: My LinkedIn Profile
+💼 LinkedIn: 
 🐙 GitHub: zinininabil-stack
 
 Always learning, building, and improving security.
